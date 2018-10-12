@@ -1,7 +1,7 @@
 package com.codefights.sums;
 
 /**
-* Created by intel on 9/28/2018.
+* Created by mvargas  on 9/28/2018.
 * Write a function that returns the sum of two numbers.
 *
 * Example

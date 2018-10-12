@@ -5,7 +5,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * Created by intel on 9/28/2018.
+ * Created by mvargas  on 9/28/2018.
  */
 public class CenturyTests {
 
